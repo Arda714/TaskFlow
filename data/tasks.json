@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Login sayfası",
+    "description": "Giriş ekranı yapılacak",
+    "priority": "high",
+    "assignee": "musa",
+    "status": "completed",
+    "createdAt": "2026-11-21T09:00:00.000Z",
+    "updatedAt": "2026-11-22T09:21:47.454Z"
+  },
+  {
+    "id": 2,
+    "title": "Veritabanı şeması tasarımı",
+    "description": "Kullanıcı ve görev tablolarının şeması çıkarılacak",
+    "priority": "medium",
+    "assignee": "ayse",
+    "status": "in-progress",
+    "createdAt": "2026-11-21T09:10:00.000Z",
+    "updatedAt": "2026-11-21T11:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "README dosyası",
+    "description": "Kurulum ve çalıştırma adımları yazılacak",
+    "priority": "low",
+    "assignee": "arda",
+    "status": "completed",
+    "createdAt": "2026-11-21T09:20:00.000Z",
+    "updatedAt": "2026-11-21T14:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Postman testleri",
+    "description": "Tüm uç noktalar için test ekran görüntüleri alınacak",
+    "priority": "high",
+    "assignee": "arda",
+    "status": "pending",
+    "createdAt": "2026-11-21T09:30:00.000Z",
+    "updatedAt": "2026-11-21T09:30:00.000Z"
+  }
+]
